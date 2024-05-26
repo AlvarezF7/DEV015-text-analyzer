@@ -227,7 +227,7 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Uso de selectores de CSS**
 
-  - [ ] La aplicación usa
+  - [x ] La aplicación usa
   [`selectores CSS de tipo`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#type_selectors)
   para darle estilo al
   [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
@@ -240,13 +240,13 @@ relacionados con cada objetivo de aprendizaje.
   [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
   descrito anteriormente.
 
-  - [ ] La aplicación usa
+  - [x] La aplicación usa
   [`selectores de atributo`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors)
   para darle estilo al
   [`<textarea>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
   usando el atributo `name`.
 
-  - [ ] La aplicación usa
+  - [ x] La aplicación usa
   [`selectores CSS de ID`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#id_selectors)
   para darle estilo al
   [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
