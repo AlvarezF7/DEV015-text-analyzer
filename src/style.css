@@ -1,6 +1,106 @@
-.conteiner{
-    background-color: darkgreen;
-    font-color:rgb(248, 247, 186)
+
+/*Estilos generales body y class container*/
+#contenedor,body{
+    margin:20px;
+    padding:20px;
+    background:linear-gradient(135deg,#89dbc7 ,#56e6c6,#15a783, #0c8a75,#044e4a, #012019);
+    background-attachment: fixed;
+    font-family:'Times new roman';
+    font-size:larger;
+  
     
+}
+ /*Titulos y textos */
+
+header{
+    height:60px;
+    width:710px;/*ancho*/
+    padding:30px;
+    text-align: center;
+    color:#fdfdfd;
+    font-family:'Times new roman';
+    margin:0 auto;
+}
+#parrafo{
+    height:75px;
+    width:735px;
+    padding:5px;
+    font-family:'caption';
+    font-style: italic;
+    margin: 0 auto;
+    color:whitesmoke;
 
 }
+/*selectores */
+#analyzer{
+    height:98px;
+    width:750px;
+    margin:0 auto; /*mantiene centrado*/
+    padding-bottom:250px;/*separacion del footer y el boton*/
+    flex-direction:center ;
+    
+}
+
+/*lista desordenada*/
+ul{
+   height:600px;
+   width:700px;
+   margin-top: 30px;
+   display:ruby;
+   list-style-type: none;/*elimina las viñeta*/
+   justify-content:space-between; /* Centrar horizontalmente*/
+
+    
+}
+/*lista ordenada*/
+
+.list{
+    height:50px;
+    width:300px;
+    padding:8px ; /*inside of te element */
+    margin-right: 10px;
+    border-radius: 17px;
+    font-size: 21px;
+    border: 1px solid #7cecd0;
+    background-color:   #0c7c77;
+    color: white;  
+}
+
+textarea[name="user-input"]{ 
+    height:150px;
+    width:700px;
+    padding:15px;
+    background-color:#cafcf8fa;
+    border-radius: 20px;
+    border-color:#07524e;
+    margin:center;
+    font-size:22px;
+    font-family:'caption' ;
+}
+
+/*boton para re-iniciar el cuadro de texto*/
+#reset-button{
+    height:50px;
+    width:160px; /*ancho*/
+    background-color: #07706b;
+    margin-left: 290px;
+    border-color: #9fffe7;
+    border-radius: 17px;
+    font-size: 23px;
+    color:whitesmoke;
+    cursor: pointer;  /*Cambia la forma del cursor al pasar sobre el botón */  
+}
+#reset-button:hover{
+    background-color: #25cfb3; 
+}
+footer{
+    height:90px;
+    width:730px;
+    text-align:center;
+    font-family: 'caption';
+    font-style: oblique;
+    margin:0 auto;
+    padding:10px;
+    color:whitesmoke;
+}
+
