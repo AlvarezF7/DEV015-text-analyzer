@@ -5,7 +5,7 @@
 * [1. Descripción del proyecto](#1-descripción-del-proyecto)
 * [2. Objetivos](#2-objetivos)
 * [3. Funcionalidad y Metricas](#4-funcionalidad-y-metricas)
-* [4. Vista del proyecto   https://alvarezf7.github.io/DEV015-text-analyzer/src/] 
+* [4. Vista del proyecto  https://alvarezf7.github.io/DEV015-text-analyzer/src/](#4-vista-del-proyecto)
 
 
 ***
