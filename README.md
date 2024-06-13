@@ -43,4 +43,4 @@ La aplicación cuenta con las siguientes metricas y actualiza su resultado en ti
 7. Contador Promedio Longitud:Entrega la longitud promedio de las palabras encontradas en el texto ingresado.
 
 ## 3. Vista del proyecto
-    [https://alvarezf7.github.io/DEV015-text-analyzer/src/]
+    [Link](https://alvarezf7.github.io/DEV015-text-analyzer/src/)
