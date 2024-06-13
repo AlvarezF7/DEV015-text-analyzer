@@ -4,20 +4,41 @@
 <head>
   <meta charset="utf-8">
   <title>Analizador de texto</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css" /><!-- link de CSS-->
 </head>
 
 <body>
-  <div class="conteiner" id="container">
-    <div>
-      <h1>Analizador de Texto </h1>
-      <h3>Bienvenido al analizador de texto</h3>
+  <div class="container" id="contenedor">
+    <header> 
+      <h1> Analizador de Texto </h1>
+    </header>  
+    <div class="parrafo" id="parrafo">
+      
+      <p>Bienvenido al analizador de texto, esta herramienta te permitira medir y analizar 
+         diferentes aspectos del texto ingresado en tiempo real. </p>
+    </div><br>
+    <div class="analizador" id="analyzer">
+      
+        <ul >
+              <li class="list" data-testid="word-count" >Palabras: </li>
+              <li class="list" data-testid="number-count">Números: </li> 
+              <li class="list" data-testid="number-sum">Sumar Números:  </li> <br><br>
+              <li class="list" data-testid="character-count">Caracteres:  </li>      
+              <li class="list" data-testid="character-no-spaces-count">Caracteres sin espacios:  </li>
+              <li class="list" data-testid="word-length-average">Promedio Longitud:  </li>
+        </ul><br><br>
+        <textarea name="user-input" rows="10" cols="100" wrap="hard"  placeholder=" Ingrese su texto"></textarea><br>
+        <button name = "reset-button" type="reset" class="button"  id="reset-button" >Reiniciar</button><br>
+    
     </div>
-  
-
-
+    <div class="footer" id="footer">   
+      <footer> 
+        <p>© 2024 Fernanda Alvarez, All rights reserved.</p>
+      </footer>
+    </div>
   </div>
  
-  <script src="index.js" type="module"></script>
+  <script src="index.js" type="module"></script> <!--link de js1-->
+  
 </body>
 </html>
