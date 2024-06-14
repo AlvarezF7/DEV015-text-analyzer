@@ -16,18 +16,18 @@
   referente al texto ingresado, independiente de su tamaño, ya sea un parrafo, una oracion o simplemente
   palabras sueltas; todo ello sin importar el idioma en el cual ingrese el texto.
   
-*La aplicación entrega al usuario una variedad de metricas, con información básica sobre la longitud
- y la estructura del texto, tales como, el conteo de numeros, el conteo de palabras, el conteo de caracteres,
- entre otras. De esta forma el usuario puede tomar decisiones informadas y sacar conclusiones significativas.
+* La aplicación entrega al usuario una variedad de metricas, con información básica sobre la longitud
+  y la estructura del texto, tales como, el conteo de numeros, el conteo de palabras, el conteo de caracteres,
+  entre otras. De esta forma el usuario puede tomar decisiones informadas y sacar conclusiones significativas.
     
  ![](https://github.com/AlvarezF7/prueba_git/blob/main/opcion%202.jpg)
 
 
 ## 2. Objetivos
-*El objetivo de la aplicacion web es que el usuario logre analizar un determinado texto en el navegador , 
- en donde se mostraran las diferentes metricas tales como, contador de numero, contador de caracteres,etc.
- Todo ello a traves del uso de HTML semantico, selectores de estilo CSS y la funcionalidad y responsividad que entrega JavaSrcript. 
-
+* El objetivo de la aplicacion web es que el usuario logre analizar un determinado texto en el navegador , 
+  en donde se mostraran las diferentes metricas tales como, contador de numero, contador de caracteres,etc.
+  Todo ello a traves del uso de HTML semantico, selectores de estilo CSS y la funcionalidad y responsividad
+  que entrega JavaSrcript. 
 
 
 ## 3. Funcionalidad y Metricas
@@ -42,5 +42,5 @@ La aplicación cuenta con las siguientes metricas y actualiza su resultado en ti
 6. Contador Suma de numeros: Entrega la suma de los numero enteros y decimales encontrados en el texto ingresado.
 7. Contador Promedio Longitud:Entrega la longitud promedio de las palabras encontradas en el texto ingresado.
 
-## 3. Vista del proyecto
-   [Link](https://alvarezf7.github.io/DEV015-text-analyzer/src/)
+## 4. Vista del proyecto
+   [Link aplicación](https://alvarezf7.github.io/DEV015-text-analyzer/src/)
