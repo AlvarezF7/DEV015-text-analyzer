@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
   }); 
   //aqui esta el evento  y la funcion limpiar del btn 
-  const clearbtn =  document.getElementById("reset-button");
+  const clearbtn =  document.getElementById("reset-button"); 
   clearbtn.addEventListener('click', () => {
     textarea.value= ""; 
     wordCountElement.textContent ="Palabras:0";
